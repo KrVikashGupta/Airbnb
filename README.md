@@ -1,4 +1,4 @@
-# Airbnb 
+# Airbnb
 
 ## Overview
 
@@ -96,7 +96,7 @@ This project is a full-stack web application developed as a clone of Airbnb usin
 
 ## Technologies Used
 
-- **MongoDB:** NoSQL database for storing user data, listings.
+- **MongoDB:** NoSQL database for storing user data and listings.
 - **Express.js:** Web application framework for building the backend server.
 - **React.js:** JavaScript library for building the user interface.
 - **Node.js:** JavaScript runtime environment for executing server-side code.
