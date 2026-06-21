@@ -105,3 +105,6 @@ This project is a full-stack web application developed as a clone of Airbnb usin
 - **JWT:** JSON Web Tokens for secure user authentication.
 - **Cloudinary:** Cloud-based image management for storing and serving images.
 - **Google Cloud:** For gmail based authentication
+## Update 2026
+
+Maintained by Vikash Kumar Gupta.
